@@ -1,6 +1,6 @@
 # Gym-Tan-Laundry
 
-***Have you ever wanted to quickly decide what to listen to without having to search for all the songs yourself?*** Enter: Gym-Tan-Laundry! Choose your playlist type based on our three categories: **Gym** for working out, playing sports, or parties, **Tan** for relaxing at the pool, driving in the car, or chilling with your friends, and finally **Laundry** for getting housework done, doing homework, or any time you need to focus. Once you've picked your playlist, we do the rest!
+***Have you ever wanted to quickly decide what to listen to without having to search for all the songs yourself?*** Enter: Gym-Tan-Laundry! Choose your playlist type based on our three categories: **Gym** for working out, playing sports, or parties, **Tan** for relaxing at the pool, driving in the car, or chilling with your friends, and finally **Laundry** for getting housework done, doing homework, or any time you need to focus. Once you've picked your category, we do the rest!
 
 ![gtl_gif](https://media.giphy.com/media/f6nVh4mMAJ59y5iqaI/giphy.gif)
 ## How the application works:
@@ -13,7 +13,7 @@
 -We use an algorithm that we've constructed to return songs based on the category constraints of playlist and we return the songs to the page to be previewed by the user.
 <br>
 <br>
--If the user likes the samples of songs played for them, they will have the option to connect their spotify account credentials to push that playlist and save it to their spotify account. 
+-If the user likes the samples of songs played for them, they will have the option to connect their spotify account credentials to save it to their account. 
 
 ## Built With
 
