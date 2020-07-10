@@ -1,6 +1,7 @@
 # Gym-Tan-Laundry
 
 ***Have you ever wanted to quickly decide what to listen to without having to search for all the songs yourself?*** Enter: Gym-Tan-Laundry! Choose your playlist type based on our three categories: **Gym** for working out, playing sports, or parties, **Tan** for relaxing at the pool, driving in the car, or chilling with your friends, and finally **Laundry** for getting housework done, doing homework, or any time you need to focus. Once you've picked your playlist, we do the rest!
+
 ![gtl_gif](https://media.giphy.com/media/f6nVh4mMAJ59y5iqaI/giphy.gif)
 ## How the application works:
 -User selects whether they want to have have a Gym (active/upbeat/workout style) playlist, a 'Tan' (mellow/chill/relaxation style) playlist, or a 'Laundry' (focused/persistent/work style) playlist created for them.
